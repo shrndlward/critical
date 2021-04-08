@@ -54,7 +54,7 @@
     "prettier": "^2.2.1",
     "replace-ext": "^2.0.0",
     "slash": "^3.0.0",
-    "tempy": "^1.0.0",
+    "tempy": "^1.0.1",
     "through2": "^4.0.2",
     "vinyl": "^2.2.1"
   },
