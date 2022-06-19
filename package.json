@@ -34,7 +34,7 @@
     "find-up": "^5.0.0",
     "get-stdin": "^8.0.0",
     "globby": "^11.0.2",
-    "got": "^11.8.1",
+    "got": "^11.8.5",
     "group-args": "^0.1.0",
     "indent-string": "^4.0.0",
     "inline-critical": "^6.0.3",
